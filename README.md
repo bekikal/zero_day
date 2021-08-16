@@ -1,1 +1,0 @@
-This is a pre couse starter for the 12 month SE program.
